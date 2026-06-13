@@ -6,7 +6,7 @@ from calendar import monthcalendar, month_abbr
 import re
 
 # ══════════════════════════════════════════════════════════════════════
-#  DATABASE
+#  DATABAS
 # ══════════════════════════════════════════════════════════════════════
 DB = "todo.db"
 
