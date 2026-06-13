@@ -16,8 +16,7 @@ import tkinter as tk
 from tkinter import font as tkfont
 import math
 
-# ═══════════════════════════════════════════════════
-#  PALETTE  — neon retro dark
+
 # ═══════════════════════════════════════════════════
 BG          = "#0a0a0f"
 DISPLAY_BG  = "#060608"
